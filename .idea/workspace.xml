@@ -4,11 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c314d15b-624c-4e9d-b151-939e1c9b7cb4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/app/products/[productId]/page.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/app/products/page.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+    <list default="true" id="c314d15b-624c-4e9d-b151-939e1c9b7cb4" name="Changes" comment="feat: added dynamic nested routing">
+      <change beforePath="$PROJECT_DIR$/src/app/products/[productId]/reviews/[reviewId]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/products/[productId]/reviews/[reviewId]/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,12 +33,22 @@
     &quot;assignee&quot;: &quot;Amayuru1999&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/Amayuru1999/nextjs-learning.git&quot;,
-    &quot;accountId&quot;: &quot;36bd13be-5d24-40f8-a040-69a7750cabe9&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Amayuru1999/nextjs-learning.git",
+    "accountId": "36bd13be-5d24-40f8-a040-69a7750cabe9"
+  },
+  "recentNewPullRequestHead": {
+    "server": {
+      "useHttp": false,
+      "host": "github.com",
+      "port": null,
+      "suffix": null
+    },
+    "owner": "Amayuru1999",
+    "repository": "nextjs-learning"
   }
-}</component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -53,22 +60,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;dev&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/nextjs-learning&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;ts.external.directory.path&quot;: &quot;D:\\nextjs-learning\\node_modules\\typescript\\lib&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "#2 on dev",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/nextjs-learning",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "D:\\nextjs-learning\\node_modules\\typescript\\lib",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -87,8 +94,33 @@
       <updated>1725163934678</updated>
       <workItem from="1725163935874" duration="323000" />
       <workItem from="1725164283425" duration="5319000" />
-      <workItem from="1725253323349" duration="330000" />
+      <workItem from="1725253323349" duration="1154000" />
     </task>
+    <task id="LOCAL-00001" summary="feat: added dynamic routing">
+      <option name="closed" value="true" />
+      <created>1725253716508</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725253716508</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat: added dynamic nested routing">
+      <option name="closed" value="true" />
+      <created>1725254437080</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725254437080</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat: added dynamic nested routing">
+      <option name="closed" value="true" />
+      <created>1725254539566</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725254539566</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -109,5 +141,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="feat: added dynamic routing" />
+    <MESSAGE value="feat: added dynamic nested routing" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: added dynamic nested routing" />
   </component>
 </project>
