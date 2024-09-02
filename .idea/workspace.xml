@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c314d15b-624c-4e9d-b151-939e1c9b7cb4" name="Changes" comment="feat: added dynamic nested routing">
-      <change beforePath="$PROJECT_DIR$/src/app/products/[productId]/reviews/[reviewId]/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/products/[productId]/reviews/[reviewId]/page.tsx" afterDir="false" />
+    <list default="true" id="c314d15b-624c-4e9d-b151-939e1c9b7cb4" name="Changes" comment="feat: added dynamic nested routing #1">
+      <change afterPath="$PROJECT_DIR$/src/app/hello/route.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript JSX File" />
+        <option value="TypeScript File" />
       </list>
     </option>
   </component>
@@ -63,7 +65,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "#2 on dev",
+    "git-widget-placeholder": "dev",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/nextjs-learning",
     "node.js.detected.package.eslint": "true",
@@ -94,7 +96,7 @@
       <updated>1725163934678</updated>
       <workItem from="1725163935874" duration="323000" />
       <workItem from="1725164283425" duration="5319000" />
-      <workItem from="1725253323349" duration="1154000" />
+      <workItem from="1725253323349" duration="1954000" />
     </task>
     <task id="LOCAL-00001" summary="feat: added dynamic routing">
       <option name="closed" value="true" />
@@ -120,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725254539566</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat: added dynamic nested routing #1">
+      <option name="closed" value="true" />
+      <created>1725254579494</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725254579494</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +153,7 @@
     </ignored-roots>
     <MESSAGE value="feat: added dynamic routing" />
     <MESSAGE value="feat: added dynamic nested routing" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat: added dynamic nested routing" />
+    <MESSAGE value="feat: added dynamic nested routing #1" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat: added dynamic nested routing #1" />
   </component>
 </project>
