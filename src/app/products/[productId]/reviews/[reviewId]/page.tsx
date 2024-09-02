@@ -2,7 +2,7 @@ export default function ReviewDetails({params}:{params: {productId: string, revi
 
     return (
         <div>
-            <h1>Review Details</h1>
+            <h1>Review Details Page</h1>
             <p>Product ID: {params.productId}</p>
             <p>Review ID: {params.reviewId}</p>
         </div>
