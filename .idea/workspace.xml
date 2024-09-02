@@ -94,7 +94,7 @@
       <updated>1725163934678</updated>
       <workItem from="1725163935874" duration="323000" />
       <workItem from="1725164283425" duration="5319000" />
-      <workItem from="1725253323349" duration="1124000" />
+      <workItem from="1725253323349" duration="1154000" />
     </task>
     <task id="LOCAL-00001" summary="feat: added dynamic routing">
       <option name="closed" value="true" />
@@ -112,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725254437080</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat: added dynamic nested routing">
+      <option name="closed" value="true" />
+      <created>1725254539566</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725254539566</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
